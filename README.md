@@ -16,9 +16,9 @@
 <p>Mushroom Biryani<button><a href="https://www.yummytummyaarthi.com/mushroom-biryani-recipe-kalan/"target="_blank">Click here</a></button></p><hr>
 <h2>DESSERTS</h2>
 <p>Apricot Delight <button><a href="https://en.wikipedia.org/wiki/Apricot"target="_blank">Click here</a></button> </p>
-<p>Choclate lava cake <button><a href="s://en.wikipedia.org/wiki/Molten_chocolate_cake#:~:text=Molten%20chocolate%20cake%20or%20runny,cake%2C%20or%20simply%20lava%20cake."target="_blank">Click here</a></button> </p>
-<p>Strawberry cheesecake <button><a href="ttps://en.wikipedia.org/wiki/Cheesecake"target="_blank">Click here</a></button> </p>
+<p>Choclate lava cake <button><a href="https://en.wikipedia.org/wiki/Molten_chocolate_cake#:~:text=Molten%20chocolate%20cake%20or%20runny,cake%2C%20or%20simply%20lava%20cake."target="_blank">Click here</a></button> </p>
+<p>Strawberry cheesecake <button><a href="https://en.wikipedia.org/wiki/Cheesecake"target="_blank">Click here</a></button> </p>
 <p>Apple pie <button><a href="https://en.wikipedia.org/wiki/Apple_pie#:~:text=An%20apple%20pie%20is%20a,(woven%20of%20crosswise%20strips)."target="_blank">Click here</a></button> </p>
-<p>Gulab jamun <button><a href="ttps://en.wikipedia.org/wiki/Gulab_jamun#:~:text=Gulab%20jamun%20gets%20its%20brownish,jamun%20or%20"black%20jamun"."target="_blank">Click here</a></button> </p>
+<p>Gulab jamun <button><a href="https://en.wikipedia.org/wiki/Gulab_jamun#:~:text=Gulab%20jamun%20gets%20its%20brownish,jamun%20or%20"black%20jamun"."target="_blank">Click here</a></button> </p>
 </body>
 </html>
