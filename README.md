@@ -12,7 +12,7 @@
 <p>Veg Biryani<button><a href="https://www.yummytummyaarthi.com/vegetable-biryani-recipe-vegetable/"target="_blank">Click here</a></button> </p>
 <p>Chicken Biryani<button><a href="https://www.indianhealthyrecipes.com/chicken-biryani-recipe/"target="_blank">Click here</a></button></p>
 <p>Mutton Biryani<button><a href="https://www.indianhealthyrecipes.com/mutton-biryani/"target="_blank">Click here</a></button></p>
-<p>Paneer Biryani<button><a href="https://www.indianhealthyrecipes.com/paneer-biryani/">Click here</a></button></p>
+<p>Paneer Biryani<button><a href="https://www.indianhealthyrecipes.com/paneer-biryani/"target="_blank">Click here</a></button></p>
 <p>Mushroom Biryani<button><a href="https://www.yummytummyaarthi.com/mushroom-biryani-recipe-kalan/"target="_blank">Click here</a></button></p><hr>
 <h2>DESSERTS</h2>
 <p>Apricot Delight <button><a href="https://en.wikipedia.org/wiki/Apricot"target="_blank">Click here</a></button> </p>
